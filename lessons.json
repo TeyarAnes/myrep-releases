@@ -1,0 +1,19 @@
+{
+  "schema": "myrep.lessons",
+  "v": 1,
+  "lessons": [
+    { "id": "profile", "url": "https://youtu.be/dzRSVXi3XHM" },
+    { "id": "db-backup", "url": "https://youtu.be/YXCEv-o1F_Y" },
+    { "id": "intake-form", "url": "https://youtu.be/g8vYAIxgyKc" },
+    { "id": "timeline", "url": "https://youtu.be/wLKWj5I0aGY" },
+    { "id": "program-builder", "url": "https://youtu.be/fHhvIGI5fsg" },
+    { "id": "nutrition-builder", "url": "https://youtu.be/YBuwpUEqDWM" },
+    { "id": "export-pdf", "url": "https://youtu.be/gMc2EBczsSM" },
+    { "id": "export-app", "url": "https://youtu.be/bb3RQKOdyNI" },
+    { "id": "delete-from-phone", "url": "https://youtu.be/-8TGyUc-yBg" },
+    { "id": "exercise-add", "url": "https://youtu.be/-0ciAe6ZcTk" },
+    { "id": "exercise-bulk", "url": "https://youtu.be/Jf-LpY28BqI" },
+    { "id": "foods-library", "url": "https://youtu.be/eE98nTuaTdQ" },
+    { "id": "feedback-report", "url": "https://youtu.be/rl8-jmh2tJ8" }
+  ]
+}
