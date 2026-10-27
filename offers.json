@@ -1,0 +1,11 @@
+{
+  "schema": "myrep.offers",
+  "v": 1,
+  "firstMonthOffer": true,
+  "prices": {
+    "basic": { "quarter": 3000, "month": 1500, "firstMonth": 1000 },
+    "pro":   { "quarter": 6000, "month": 2500, "firstMonth": 1800 },
+    "elite": { "quarter": 8000, "month": 3500, "firstMonth": 2500 }
+  },
+  "badges": { "basic": "", "pro": "الأكثر اختيارًا", "elite": "أفضل قيمة" }
+}
